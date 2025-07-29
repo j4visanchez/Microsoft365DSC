@@ -12,7 +12,7 @@
             "name": "RoleManagement.Read.All"
           },
           {
-            "name": "RoleManagement.ReadWrite.Directoryy"
+            "name": "RoleManagement.ReadWrite.Directory"
           },
           {
             "name": "RoleManagement.Read.Directory"
